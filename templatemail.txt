@@ -1,0 +1,3 @@
+Chào ${CUSTOMER_NAME},
+
+Đây là mail được gửi từ chương trình mail của python.
