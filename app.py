@@ -30,8 +30,8 @@ if __name__ == "__main__":
         'SMTP_ENCRYPT': 'tls',
         'SMTP_ADDRESS': 'smtp.gmail.com',
         'SMTP_PORT': 587,
-        'MAIL_LOGIN': 'hotro.hocpython@gmail.com',
-        'MAIL_PASSWORD': 'xcwenpkmgimxsbrv',
+        'MAIL_LOGIN': '',
+        'MAIL_PASSWORD': '',
     }
 
     try:
