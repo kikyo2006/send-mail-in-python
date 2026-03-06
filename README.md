@@ -34,3 +34,6 @@ Simply run the script with:
    ```bash
 python app.py
    ```
+
+⚠️ Security Note
+Do not commit your real passwords to public repositories. Use environment variables or a .env file for production.
