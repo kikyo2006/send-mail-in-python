@@ -22,3 +22,15 @@
    git clone [https://github.com/kikyo2006/send-mail-in-python.git](https://github.com/kikyo2006/send-mail-in-python.git)
    cd send-mail-in-python
    ```
+2. **Configure your credentials:**
+Open app.py and update your SMTP settings (server, port, email, and password).
+Note: For Gmail, use an App Password.
+
+3. **Prepare your recipient list:**
+Add email addresses to listmails.txt, one per line.
+
+📖 Usage (Cách dùng)
+Simply run the script with:
+   ```bash
+python app.py
+   ```
