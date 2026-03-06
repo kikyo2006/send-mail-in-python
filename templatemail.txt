@@ -1,3 +1,8 @@
 Chào ${CUSTOMER_NAME},
 
-Đây là mail được gửi từ chương trình mail của python.
+Đây là nội dung email mẫu được gửi tự động từ script Python của tôi. 
+Hệ thống đang hoạt động bình thường và có thể thay thế các biến trong ngoặc nhọn một cách chính xác.
+
+Trạng thái: Thành công
+
+Cảm ơn bạn đã thử nghiệm!
